@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8rem;
+  color: #666;
+  height: 100%;
+}
+
+.image1 {
+  background-image: url(./img/bg.jpg);
+  min-height: 100%;
+}
+
+.image2 {
+  background-image: url(./img/bg2.jpg);
+  min-height: 80%;
+}
+
+.image3 {
+  background-image: url(./img/bg3.jpg);
+  min-height: 80%;
+}
+
+.image4 {
+  background-image: url(./img/bg4.jpg);
+  min-height: 80%;
+}
+
+.heading-container__heading--big {
+  background-color: black;
+  padding: 2rem;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 1rem;
+  text-transform: uppercase;
+  line-height: 5rem;
+}
+
+.heading-container__heading--small {
+  background-color: black;
+  padding: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  outline: 0.4rem inset purple;
+  outline-offset: 0.2rem;
+  text-transform: capitalize;
+  line-height: 5rem;
+}
+
+.heading-container {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  letter-spacing: 0.5rem;
+}
+
+.image1,
+.image2,
+.image3,
+.image4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.7;
+}
+
+.section {
+  padding: 3rem 5rem;
+  text-align: center;
+}
+
+.section--light {
+  background-color: rgb(241, 241, 241);
+  color: #666;
+}
+
+.section--dark {
+  background-color: #282e34;
+  color: #dddddd;
+}
+
+h2 {
+  /* margin-bottom: 1.1rem; */
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.logo {
+  width: 30%;
+  margin: 1rem;
+}
