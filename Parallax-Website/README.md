@@ -1,4 +1,4 @@
-# 3-Parallax-Website
+# Parallax-Website
 
 <div align="right"><b>10/08/2022</b></div><br>
 
