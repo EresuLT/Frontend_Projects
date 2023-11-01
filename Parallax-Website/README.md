@@ -6,4 +6,4 @@ Here is my 3rd project. In this project, I created Parallax Website which people
 With this project, I've learned how to build basic parallax website by using **HTML & CSS** features.I also created a brand named ERESTU and designed a logo and logo icon with AI. With the features that I would learn, I will build more spesific and detailed websites. Step by step, to achieving my goals.
 
 Here you can see the project output:
-![GoogleLandingPage](https://github.com/EresuLT/Frontend_Projects/blob/main/Parallax-Website/img/parallax-website.gif)
+![ParallaxWebsite](https://github.com/EresuLT/Frontend_Projects/blob/main/Parallax-Website/img/parallax-website.gif)
