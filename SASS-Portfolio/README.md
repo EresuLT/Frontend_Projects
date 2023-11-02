@@ -6,4 +6,4 @@ Here is my 5th project. In this project, I created portfolio website. With this 
 With the features that I would learn, I will build more spesific and detailed websites. Step by step, to achieving my goals.
 
 Here you can see the project output:
-![SASSPortfolio](/SASS-Portfolio/img/SASS-project.gif)
+![SASSPortfolio](https://github.com/EresuLT/Frontend_Projects/blob/main/SASS-Portfolio/img/SASS-project.gif)
