@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="E. Resul TOLU">
+    <title>Guess Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container ">
+        <div class="guess">
+            <h1>Guess The Number!</h1>
+        </div>
+        <div class="game" id="Game">
+            <h2>Enter The Number Between 1 and 100</h2>
+
+            <input type="number" min="1" max="100" class="numInput" id="numInput" placeholder="Number">
+            <button type="button" class="button" id="check-btn">
+                Send Your Guess!
+            </button>
+            <div class="check">
+                <div id="results">
+                    <h5> Lets see what you got! </h5>
+                </div>
+                <div id="try"> </div>
+            </div>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+
+</html>
